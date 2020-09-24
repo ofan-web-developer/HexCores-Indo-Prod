@@ -51,6 +51,7 @@ Platform bernama HexCore Indo yang kami buat di dalam nya sudah tertanam fitur -
 - Log 1.01 First Build HexCore 28 Agustus 2020
 
 
-HexCore Indo dibuat dengan cinta oleh OWD Indonesia
+HexCore Indo dibuat dengan &hearts; oleh OWD Indonesia
 - Author OFAN
+- Website [www.sofandani.com](https://sofandani.com)
 - &copy; 2020 OWD Indonesia
