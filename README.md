@@ -18,12 +18,12 @@ Platform bernama HexCore Indo yang kami buat di dalam nya sudah tertanam fitur -
 ### Desktop Display
 | Depan | Cart | Contact |
 :---------------: | :---------------: | :---------------:
-![hexcore owd 1](https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/owd-desk-1.png) | ![hexcore owd 2](https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/owd-desk-2.png) | ![hexcore owd 3](https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/owd-desk-3.png)
+![hexcore owd 1](https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/owd_images/owd-desk-1.png) | ![hexcore owd 2](https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/owd_images/owd-desk-2.png) | ![hexcore owd 3](https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/owd_images/owd-desk-3.png)
 
 ### Mobile Display
 | Depan | Cart | Contact |
 :---------------: | :---------------: | :---------------:
-![hexcore owd 1](https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/owd-phone-1.png) | ![hexcore owd 2](https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/owd-phone-2.png) | ![hexcore owd 3](https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/owd-phone-3.png)
+![hexcore owd 1](https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/owd_images/owd-phone-1.png) | ![hexcore owd 2](https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/owd_images/owd-phone-2.png) | ![hexcore owd 3](https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/owd_images/owd-phone-3.png)
 
 ### Peruntukan HexCore
 1. Cocok untuk landing page bisnis dan usaha anda
