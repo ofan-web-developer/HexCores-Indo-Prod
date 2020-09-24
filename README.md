@@ -1,14 +1,14 @@
-#HEXCORE INDONESIA
+# HEXCORE INDONESIA
 
 ![hexcore owd 1]https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/owd-desk-1.png)
 ![hexcore owd 2]https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/owd-desk-2.png)
 ![hexcore owd 3]https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/owd-desk-3.png)
 
-##-- In Indonesia --
+## In Indonesia
 Perkenalkan kami OWD - Ofan Web Dev Indonesia, kami meluncurkan produk digital berupa platform web apps berupa Content Management System.
 Platform bernama HexCore Indo yang kami buat di dalam nya sudah tertanam fitur - fitur dan tools yang bisa digunakan untuk landing page sebuah situs.
 
-###Fitur HexCore
+### Fitur HexCore
 1. CMS non Database
 2. Bisa di integrasi kan dengan platform lain, semisal Loyverse API, Facebook API, Firebase, SpreadSheet, System POS, Payment Gateway API, Telegram API, Whatsapp API
 3. Memiliki fitur E-Commerce Native
@@ -19,13 +19,13 @@ Platform bernama HexCore Indo yang kami buat di dalam nya sudah tertanam fitur -
 8. Support hampir semua Browser modern
 9. Flexible & Customizable
 
-###Peruntukan HexCore
+### Peruntukan HexCore
 1. Cocok untuk landing page bisnis dan usaha anda
 2. Cocok untuk official web Toko Online, Cafe, Kedai Kopi, Restoran dan lainnya
 3. Bisa disematkan di link Bio Instagram, Twitter, Facebook Page, Pinterest atau Tiktok
 4. Bisa digunakan transaksi end to end users & customer services
 
-##Rilisan Terakhir
+## Rilisan Terakhir
 - Log 1.17 Add Upload Data HexCore 20 September 2020
 - Log 1.16 Add Telegram Auth HexCore 19 September 2020
 - Log 1.15 Add Google Drive API HexCore 18 September 2020
@@ -46,5 +46,5 @@ Platform bernama HexCore Indo yang kami buat di dalam nya sudah tertanam fitur -
 
 
 HexCore Indo dibuat dengan cinta oleh OWD Indonesia
-Author OFAN
-&copy; 2020 OWD Indonesia
+- Author OFAN
+- &copy; 2020 OWD Indonesia
