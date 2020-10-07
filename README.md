@@ -6,14 +6,12 @@ Platform bernama HexCore Indo yang kami buat di dalam nya sudah tertanam fitur -
 
 ### Fitur HexCore
 1. CMS non Database
-2. Bisa di integrasi kan dengan platform lain, semisal Loyverse API, Facebook API, Firebase, SpreadSheet, System POS, Payment Gateway API, Telegram API, Whatsapp API
+2. Bisa di integrasi kan dengan platform lain (Rest API), seperti Loyverse, Facebook, Firebase, SpreadSheet, System POS, Payment Gateway, Telegram, Whatsapp
 3. Memiliki fitur E-Commerce Native
-4. Menggunakan bahasa PHP & Javascript Framework
-5. Menggunakan styke Bootstrap
-6. SEO Friendly
-7. Responsive Layout Design
-8. Support hampir semua Browser modern
-9. Flexible & Customizable
+4. SEO Friendly
+5. Responsive Layout Design (desktop / mobile)
+6. Support hampir semua Browser modern
+7. Flexible & Customizable
 
 ### Desktop Display
 | Depan | Cart | Contact |
