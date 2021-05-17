@@ -58,6 +58,6 @@ Platform bernama HexCore Indo yang kami buat di dalam nya sudah tertanam fitur -
 
 
 HexCore Indo dibuat dengan &hearts; oleh OWD Indonesia
-- Author OFAN
+- Author [OWD INDO](https://sofandani.com/magz/about-owd)
 - Website [www.sofandani.com](https://sofandani.com)
 - &copy; 2020 OWD Indonesia
