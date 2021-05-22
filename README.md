@@ -8,7 +8,7 @@ Platform bernama HexCore Indo yang kami buat di dalam nya sudah tertanam fitur -
 <a href="https://github.com/ofan-web-developer/HexCores-Indonesia"><img src="https://img.shields.io/badge/hexcoreindoversion-v.1.0.a-brightgreen?style=for-the-badge" alt="hecore version"></a>
 
 ### Fitur HexCore
-1. CMS non Database
+1. Multiple Purpose Lightware with CMS non Database
 2. Bisa di integrasi kan dengan platform lain (Rest API), seperti Loyverse, Facebook, Firebase, SpreadSheet, System POS, Payment Gateway, Telegram, Whatsapp
 3. Memiliki fitur E-Commerce Native
 4. SEO Friendly
