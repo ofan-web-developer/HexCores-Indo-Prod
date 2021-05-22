@@ -33,6 +33,9 @@ Platform bernama HexCore Indo yang kami buat di dalam nya sudah tertanam fitur -
 4. Bisa digunakan transaksi end to end users & customer services
 
 ## Rilisan Terakhir
+- Log 1.18.1 Add Rest API HexCore 22 Mei 2021
+- Log 1.18.1 Update Angular Dashboard HexCore 21 Mei 2021
+- Log 1.18.0 Add Admin Panel (Dashboard) HexCore 20 Mei 2021
 - Log 1.17.5 Update Product/Shop Page (Category Filter) HexCore 13 Mei 2021
 - Log 1.17.4 Update Work Page (Category Filter) HexCore 10 Mei 2021
 - Log 1.17.3 Add Detail Product Shop HexCore 5 Mei 2021
