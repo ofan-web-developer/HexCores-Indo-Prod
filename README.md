@@ -27,7 +27,7 @@ Platform bernama HexCore Indo yang kami buat di dalam nya sudah tertanam fitur -
 ![hexcore owd 1](https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/owd_images/owd-phone-1.png) | ![hexcore owd 2](https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/owd_images/owd-phone-2.png) | ![hexcore owd 3](https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/owd_images/owd-phone-3.png)
 
 ### Peruntukan HexCore
-1. Cocok untuk landing page bisnis dan usaha anda
+1. Cocok untuk landing page bisnis dan usaha
 2. Cocok untuk official web Toko Online, Cafe, Kedai Kopi, Restoran dan lainnya
 3. Bisa disematkan di link Bio Instagram, Twitter, Facebook Page, Pinterest atau Tiktok
 4. Bisa digunakan transaksi end to end users & customer services
