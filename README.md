@@ -8,13 +8,15 @@ Platform bernama HexCore Indo yang kami buat di dalam nya sudah tertanam fitur -
 <a href="https://github.com/ofan-web-developer/HexCores-Indonesia"><img src="https://img.shields.io/badge/hexcoreindoversion-v.1.18.0-brightgreen?style=for-the-badge" alt="hecore version"></a>
 
 ### Fitur HexCore
-1. Multiple Purpose Lightware with CMS non Database
-2. Bisa di integrasi kan dengan platform lain (Rest API), seperti Loyverse, Facebook, Firebase, SpreadSheet, System POS, Payment Gateway, Telegram, Whatsapp
-3. Memiliki fitur E-Commerce Native
+1. Multiple Purpose Lightware + CMS with non-SQL Database
+2. Integratable dengan platform lain (Rest API), seperti Loyverse, Facebook, Firebase, SpreadSheet, System POS, Payment Gateway, Telegram, Whatsapp
+3. Fitur E-Commerce Native terpasang
 4. SEO Friendly
 5. Responsive Layout Design (desktop / mobile)
-6. Support hampir semua Browser modern
-7. Flexible & Customizable
+6. Design minimalis, simple & powerfull
+7. Include Rest API untuk Mobile Apps
+9. Support hampir semua Browser modern
+10. Flexible & Customizable
 
 ### Desktop Display
 | Depan | Cart | Contact |
@@ -31,6 +33,12 @@ Platform bernama HexCore Indo yang kami buat di dalam nya sudah tertanam fitur -
 2. Cocok untuk official web Toko Online, Cafe, Kedai Kopi, Restoran dan lainnya
 3. Bisa disematkan di link Bio Instagram, Twitter, Facebook Page, Pinterest atau Tiktok
 4. Bisa digunakan transaksi end to end users & customer services
+
+### Informasi Teknologi
+Kami sangat bahagia jika rekan-rekan pengembang (developer) memiliki minat untuk kerjasama pengembangan HexCores.
+Untuk itu semua informasi teknologi dan dokumentasi kode kami simpan di Repository khusus sebagai Laboratorium Eksperimen.
+Silahkan buka alamat [https://github.com/ofan-web-developer/hexcore](https://github.com/ofan-web-developer/hexcore).
+Kemudian beritahu kami melalui Direct Message atau Whatsapp ke [+6281511190339](https://web.whatsapp.com?send=+6281511190339) untuk request join.
 
 ## Rilisan Terakhir
 - Log 1.18.1 Add Rest API HexCore 22 Mei 2021
