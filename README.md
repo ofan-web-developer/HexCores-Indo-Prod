@@ -37,7 +37,7 @@ Platform bernama HexCore Indo yang kami buat di dalam nya sudah tertanam fitur -
 ### Informasi Teknologi
 Untuk itu semua informasi teknologi dan dokumentasi kode kami simpan di Repository khusus sebagai Laboratorium Eksperimen
 Silahkan buka alamat [https://github.com/ofan-web-developer/hexcore](https://github.com/ofan-web-developer/hexcore)
-Kemudian beritahu kami melalui Direct Message atau Whatsapp ke [+6281511190339](https://api.whatsapp.com/send?phone=+6281511190339&text=Request%20Lab%20HexCores) untuk request join
+Kemudian beritahu kami melalui Direct Message atau Whatsapp ke [+6281511190339](https://api.whatsapp.com/send?phone=+6281511190339&text=Request%20Lab%20HexCores%20[Github]) untuk request join
 
 ## Rilisan Terakhir
 - Log 1.18.1 Add Rest API HexCore 22 Mei 2021
