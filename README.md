@@ -35,7 +35,7 @@ Platform bernama HexCore Indo yang kami buat di dalam nya sudah tertanam fitur -
 4. Bisa digunakan transaksi end to end users & customer services
 
 ### Informasi Teknologi
-Untuk itu semua informasi teknologi dan dokumentasi kode kami simpan di Repository khusus sebagai Laboratorium Eksperimen
+Untuk semua informasi teknologi dan dokumentasi kode kami simpan di Repository khusus sebagai Laboratorium Eksperimen
 Beritahu kami melalui Direct Message atau Whatsapp ke [+6281511190339](https://api.whatsapp.com/send?phone=+6281511190339&text=Request%20Lab%20HexCores%20[Github]) untuk request join
 
 ## Rilisan Terakhir
