@@ -35,10 +35,9 @@ Platform bernama HexCore Indo yang kami buat di dalam nya sudah tertanam fitur -
 4. Bisa digunakan transaksi end to end users & customer services
 
 ### Informasi Teknologi
-Kami sangat bahagia jika rekan-rekan pengembang (developer) memiliki minat untuk kerjasama pengembangan HexCores.
-Untuk itu semua informasi teknologi dan dokumentasi kode kami simpan di Repository khusus sebagai Laboratorium Eksperimen.
-Silahkan buka alamat [https://github.com/ofan-web-developer/hexcore](https://github.com/ofan-web-developer/hexcore).
-Kemudian beritahu kami melalui Direct Message atau Whatsapp ke [+6281511190339](https://web.whatsapp.com/send?phone=+6281511190339&text=Request Lab HexCores) untuk request join.
+Untuk itu semua informasi teknologi dan dokumentasi kode kami simpan di Repository khusus sebagai Laboratorium Eksperimen
+Silahkan buka alamat [https://github.com/ofan-web-developer/hexcore](https://github.com/ofan-web-developer/hexcore)
+Kemudian beritahu kami melalui Direct Message atau Whatsapp ke [+6281511190339](https://api.whatsapp.com/send?phone=+6281511190339&text=Request%20Lab%20HexCores) untuk request join
 
 ## Rilisan Terakhir
 - Log 1.18.1 Add Rest API HexCore 22 Mei 2021
