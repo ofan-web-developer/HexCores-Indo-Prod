@@ -5,7 +5,7 @@ OWD - Ofan Web Dev Indonesia meluncurkan produk digital berupa platform web apps
 Platform bernama HexCore Indo yang kami buat di dalam nya sudah tertanam fitur - fitur dan tools yang bisa digunakan untuk landing page sebuah situs.
 
 ## Info Develop
-<a href="https://github.com/ofan-web-developer/HexCores-Indonesia"><img src="https://img.shields.io/badge/hexcoreindoversion-v.1.18.0-brightgreen?style=for-the-badge" alt="hecore version"></a>
+<a href="https://github.com/ofan-web-developer/HexCores-Indonesia"><img src="https://img.shields.io/badge/hexcore indo (private)-v.1.18.0-brightgreen?style=for-the-badge" alt="hecore version"></a>
 
 ### Fitur HexCore
 1. Multiple Purpose Lightware + CMS with non-SQL Database
@@ -28,7 +28,7 @@ Platform bernama HexCore Indo yang kami buat di dalam nya sudah tertanam fitur -
 :---------------: | :---------------: | :---------------:
 ![hexcore owd 1](https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/owd_images/owd-phone-1.png) | ![hexcore owd 2](https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/owd_images/owd-phone-2.png) | ![hexcore owd 3](https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/owd_images/owd-phone-3.png)
 
-### Peruntukan HexCore
+### Peruntukan & Kompatibel
 1. Cocok untuk landing page bisnis dan usaha
 2. Cocok untuk official web Toko Online, Cafe, Kedai Kopi, Restoran dan lainnya
 3. Bisa disematkan di link Bio Instagram, Twitter, Facebook Page, Pinterest atau Tiktok
@@ -38,7 +38,7 @@ Platform bernama HexCore Indo yang kami buat di dalam nya sudah tertanam fitur -
 Untuk semua informasi teknologi dan dokumentasi kode kami simpan di Repository khusus sebagai Laboratorium Eksperimen
 Beritahu kami melalui Direct Message atau Whatsapp ke [+6281511190339](https://api.whatsapp.com/send?phone=+6281511190339&text=Request%20Lab%20HexCores%20[Github]) untuk request join
 
-## Rilisan Terakhir
+### Catatan Rilis
 - Log 1.18.1 Add Rest API HexCore 22 Mei 2021
 - Log 1.18.1 Update Angular Dashboard HexCore 21 Mei 2021
 - Log 1.18.0 Add Admin Panel (Dashboard) HexCore 20 Mei 2021
@@ -65,7 +65,7 @@ Beritahu kami melalui Direct Message atau Whatsapp ke [+6281511190339](https://a
 - Log 1.02.0 Fix Loader HexCore 30 Agustus 2020
 - Log 1.01.0 First Build HexCore 28 Agustus 2020
 
-
+### Pesan-Pesan
 HexCore Indo dibuat dengan &hearts; oleh OWD Indonesia
 - Author [OWD INDO](https://sofandani.com/magz/read/about-owd)
 - Website [www.sofandani.com](https://sofandani.com)
