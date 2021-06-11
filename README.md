@@ -35,6 +35,18 @@ Platform bernama HexCore Indo yang kami buat di dalam nya sudah tertanam fitur -
 3. Bisa disematkan di link Bio Instagram, Twitter, Facebook Page, Pinterest atau Tiktok
 4. Bisa digunakan transaksi end to end users & customer services
 
+### Server & System Requirement
+1. Server
+  - Minimal Shared Hosting Support Apache (Nginx / VPS Disarankan)
+  - JSON Module / Plugin di Server
+  - GD Image Library
+2. Desktop Apps
+  - Mac OSX Minimum versi 10.11.6 (El Capitan)
+  - Windows Minimum versi 10
+  - Linux Ubuntu 6
+4. Mobile Apps
+  - Android Minimum versi 4.0 (Ice Cream Sandwitch)
+
 ### Informasi Teknologi
 Untuk semua informasi teknologi dan dokumentasi kode kami simpan di Repository khusus sebagai Laboratorium Eksperimen
 Beritahu kami melalui Direct Message atau Platoform Kirim Pesan. 
