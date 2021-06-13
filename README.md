@@ -1,7 +1,7 @@
 # HEXCORE INDONESIA
 ![HexCore Logo](https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/owd_images/hexacore.svg)
 
-OWD Indo (Ofan Web Dev Indonesia) meluncurkan produk digital yaitu platform web apps berupa Multi Purpose Lightware with Content Management System.
+OWD Indo (Ofan Web Dev Indonesia) meluncurkan produk digital yaitu platform web apps berupa Multi Purpose Lightware Content Management System No-SQL.
 Platform bernama HexCore Indo yang kami buat di dalam nya sudah tertanam fitur - fitur dan tools yang bisa digunakan untuk landing page sebuah situs.
 
 ## Pratampil
