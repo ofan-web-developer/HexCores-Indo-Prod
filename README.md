@@ -5,7 +5,7 @@ OWD Indo (Ofan Web Dev Indonesia) meluncurkan produk digital berupa platform web
 Platform bernama HexCore Indo yang kami buat di dalam nya sudah tertanam fitur - fitur dan tools yang bisa digunakan untuk landing page sebuah situs.
 
 ## Pratampil
-- Lihat tampilan HexCore [➡ Disini](https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/markdown/Preview.md)
+- Lihat tampilan HexCore **[➡ Disini](https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/markdown/Preview.md)**
 
 ### Peruntukan & Kompatibilitas
 1. Cocok untuk landing page bisnis dan usaha
