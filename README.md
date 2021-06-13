@@ -8,8 +8,8 @@ Platform bernama HexCore Indo yang kami buat di dalam nya sudah tertanam fitur -
 Lihat tampilan HexCore **[➡ Disini](https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/markdown/Preview.md)**
 
 ### Peruntukan & Kompatibilitas
-1. Cocok untuk landing page bisnis dan usaha
-2. Cocok untuk official web Toko Online, Cafe, Kedai Kopi, Restoran dan lainnya
+1. Untuk landing page bisnis dan usaha
+2. Untuk official web Toko Online, Cafe, Kedai Kopi, Restoran dan lainnya
 3. Bisa disematkan di link Bio Instagram, Twitter, Facebook Page, Pinterest atau Tiktok
 4. Bisa digunakan transaksi end to end users & customer services
 
@@ -41,13 +41,13 @@ PENTING! Source code repository HexCores masih dalam status private, hubungi kam
 7. Flexible & Customizable
 
 ### Fitur Pro HexCore
-1. Include E-Commerce Native
-2. Include Poin of Sale, CRM, Distribution & Sales Management
-3. Include Rest API untuk Mobile Apps
-4. Integrasi Firebase API (tambahan biaya layanan perbulan)
+1. Include [E-Commerce](https://id.wikipedia.org/wiki/Perdagangan_elektronik) Native
+2. Include [Poin of Sale](https://en.wikipedia.org/wiki/Point_of_sale), [CRM](https://id.wikipedia.org/wiki/Manajemen_hubungan_pelanggan), [Distribution & Sales Management](https://id.wikipedia.org/wiki/Manajemen_pemasaran)
+3. Include [Rest API](https://en.wikipedia.org/wiki/Overview_of_RESTful_API_Description_Languages) untuk Mobile Apps
+4. Integrasi [Firebase API](https://en.wikipedia.org/wiki/Firebase) (tambahan biaya layanan perbulan)
 
 #### Catatan:
-Untuk mendapatkan fitur pro silahkan kunjungi **[➡ HexCore Pro](https://sofandani.com/hexcore)**
+Untuk mendapatkan fitur pro silahkan buka laman perbandingan harga di **[➡ HexCore Pro](https://sofandani.com/hexcore)**
 
 ### Informasi Teknologi
 Kami mendukung komunitas open source, jika kamu seorang pengembang silahkan mendaftar dan bergabung dengan kami.
