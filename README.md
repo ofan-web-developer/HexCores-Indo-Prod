@@ -5,7 +5,7 @@ OWD Indo (Ofan Web Dev Indonesia) meluncurkan produk digital berupa platform web
 Platform bernama HexCore Indo yang kami buat di dalam nya sudah tertanam fitur - fitur dan tools yang bisa digunakan untuk landing page sebuah situs.
 
 ## Pratampil
-- Lihat tampilan HexCore **[➡ Disini](https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/markdown/Preview.md)**
+Lihat tampilan HexCore **[➡ Disini](https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/markdown/Preview.md)**
 
 ### Peruntukan & Kompatibilitas
 1. Cocok untuk landing page bisnis dan usaha
@@ -15,15 +15,15 @@ Platform bernama HexCore Indo yang kami buat di dalam nya sudah tertanam fitur -
 
 ### Server & System Requirement
 1. Server
-  - Minimal Shared Hosting Support Apache (Nginx / VPS Disarankan)
-  - JSON Module / Plugin di Server
-  - GD Image Library
+    - Minimal Shared Hosting Support Apache (Nginx / VPS Disarankan)
+    - JSON Module / Plugin di Server
+    - GD Image Library
 2. Desktop Apps
-  - Mac OSX Minimum versi 10.11.6 (El Capitan)
-  - Windows Minimum versi 10
-  - Linux Ubuntu 6
+    - Mac OSX Minimum versi 10.11.6 (El Capitan)
+    - Windows Minimum versi 10
+    - Linux Ubuntu 6
 4. Mobile Apps
-  - Android Minimum versi 4.0 (Ice Cream Sandwitch)
+    - Android Minimum versi 4.0 (Ice Cream Sandwitch)
 
 ## HexCores Source Releases
 PENTING! Source code repository HexCores masih dalam status private, hubungi kami untuk membukanya.
@@ -57,7 +57,7 @@ Hubungi kami melalui Direct Message atau Platoform Kirim Pesan.
 <a href="https://api.whatsapp.com/send?phone=+6281511190339&text=Request%20Lab%20HexCores%20[Github]" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp request join hexcore lab"></a> <a href="https://t.me/joinchat/uOxRiaSdZF41ZmE1" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram request join hexcore lab"></a>
 
 ### Catatan Rilis
-- Lihat Catatan Rilis Lengkapnya **[➡ Disini](https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/markdown/Log.md)**
+Lihat Catatan Rilis Lengkapnya **[➡ Disini](https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/markdown/Log.md)**
 
 ### Pesan-Pesan
 HexCore Indo dibuat dengan &hearts; oleh OWD Indonesia
