@@ -4,15 +4,8 @@
 OWD Indo (Ofan Web Dev Indonesia) meluncurkan produk digital berupa platform web apps berupa Multi Purpose Lightware with Content Management System.
 Platform bernama HexCore Indo yang kami buat di dalam nya sudah tertanam fitur - fitur dan tools yang bisa digunakan untuk landing page sebuah situs.
 
-### Desktop Display
-| Depan | Cart | Contact |
-:---------------: | :---------------: | :---------------:
-![hexcore owd 1](https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/owd_images/owd-desk-1.png) | ![hexcore owd 2](https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/owd_images/owd-desk-2.png) | ![hexcore owd 3](https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/owd_images/owd-desk-3.png)
-
-### Mobile Display
-| Depan | Cart | Contact |
-:---------------: | :---------------: | :---------------:
-![hexcore owd 1](https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/owd_images/owd-phone-1.png) | ![hexcore owd 2](https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/owd_images/owd-phone-2.png) | ![hexcore owd 3](https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/owd_images/owd-phone-3.png)
+## Pratampil
+- Lihat tampilan HexCore [Disini](https://github.com/ofan-web-developer/HexCore-Indo-Prod/Preview.md)
 
 ### Peruntukan & Kompatibilitas
 1. Cocok untuk landing page bisnis dan usaha
