@@ -24,6 +24,10 @@ PENTING! Source code repository HexCores masih dalam status private, hubungi kam
 2. Include Poin of Sale, CRM, Distribution & Sales Management (extends pro version)
 3. Include Rest API untuk Mobile Apps (extends pro version)
 
+*Catatan:*
+
+Untuk mendapatkan fitur pro silahkan kunjungi **[➡ HexCore Pro](https://sofandani.com/hexcore)**
+
 ### Desktop Display
 | Depan | Cart | Contact |
 :---------------: | :---------------: | :---------------:
