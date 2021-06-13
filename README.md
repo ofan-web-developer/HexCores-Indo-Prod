@@ -13,14 +13,16 @@ PENTING! Source code repository HexCores masih dalam status private, hubungi kam
 ### Fitur HexCore
 1. Multiple Purpose Lightware + CMS with non-SQL Database
 2. Integratable dengan platform lain (Rest API), seperti Loyverse, Facebook, Firebase, SpreadSheet, System POS, Payment Gateway, Telegram, Whatsapp
-3. Fitur E-Commerce Native (extends pro version)
-4. Fitur Poin of Sale, CRM, Distribution & Sales Management (extends pro version)
-5. SEO Friendly
-6. Responsive Layout Design (desktop / mobile)
-7. Design minimalis, simple & powerfull
-8. Include Rest API untuk Mobile Apps (extends pro version)
-9. Support hampir semua Browser modern
-10. Flexible & Customizable
+3. SEO Friendly
+4. Responsive Layout Design (desktop / mobile)
+5. Design minimalis, simple & powerfull
+6. Support hampir semua Browser modern
+7. Flexible & Customizable
+
+### Fitur Pro HexCore
+1. Include E-Commerce Native (extends pro version)
+2. Include Poin of Sale, CRM, Distribution & Sales Management (extends pro version)
+3. Include Rest API untuk Mobile Apps (extends pro version)
 
 ### Desktop Display
 | Depan | Cart | Contact |
