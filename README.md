@@ -58,31 +58,7 @@ Hubungi kami melalui Direct Message atau Platoform Kirim Pesan.
 <a href="https://api.whatsapp.com/send?phone=+6281511190339&text=Request%20Lab%20HexCores%20[Github]" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp request join hexcore lab"></a> <a href="https://t.me/joinchat/uOxRiaSdZF41ZmE1" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="telegram request join hexcore lab"></a>
 
 ### Catatan Rilis
-- Log 1.18.1 Add Rest API HexCore 22 Mei 2021
-- Log 1.18.1 Update Angular Dashboard HexCore 21 Mei 2021
-- Log 1.18.0 Add Admin Panel (Dashboard) HexCore 20 Mei 2021
-- Log 1.17.5 Update Product/Shop Page (Category Filter) HexCore 13 Mei 2021
-- Log 1.17.4 Update Work Page (Category Filter) HexCore 10 Mei 2021
-- Log 1.17.3 Add Detail Product Shop HexCore 5 Mei 2021
-- Log 1.17.2 Add Online Shop HexCore 2 Mei 2021
-- Log 1.17.1 Add Article & Magazine HexCore 29 April 2021
-- Log 1.17.0 Add Upload Data HexCore 20 September 2020
-- Log 1.16.0 Add Telegram Auth HexCore 19 September 2020
-- Log 1.15.0 Add Google Drive API HexCore 18 September 2020
-- Log 1.14.0 Add Google Login HexCore 17 September 2020
-- Log 1.13.0 Add Curve Plugin HexCore 16 September 2020
-- Log 1.12.0 Add Dashboard HexCore 15 September 2020
-- Log 1.11.0 Fix API Integrating HexCore 14 September 2020
-- Log 1.10.0 Fix Contact Box HexCore 13 September 2020
-- Log 1.09.0. Fix Cart Fitur HexCore 12 September 2020
-- Log 1.08.0 Add API Integrating HexCore 10 September 2020
-- Log 1.07.0 Add Contact Box HexCore 09 September 2020
-- Log 1.06.0 Add Meta Tag SEO HexCore 07 September 2020
-- Log 1.05.0 Fix Engine Template HexCore 05 September 2020
-- Log 1.04.0 Add Cart Fitur 02 September 2020
-- Log 1.03.0 Add Engine Template HexCore 01 September 2020
-- Log 1.02.0 Fix Loader HexCore 30 Agustus 2020
-- Log 1.01.0 First Build HexCore 28 Agustus 2020
+- Lihat Catatan Rilis Lengkapnya [Disini](https://github.com/ofan-web-developer/HexCores-Indo-Prod/blob/master/Log.md)
 
 ### Pesan-Pesan
 HexCore Indo dibuat dengan &hearts; oleh OWD Indonesia
