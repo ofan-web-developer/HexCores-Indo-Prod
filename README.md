@@ -18,7 +18,7 @@ PENTING! Source code repository HexCores masih dalam status private, hubungi kam
 5. SEO Friendly
 6. Responsive Layout Design (desktop / mobile)
 7. Design minimalis, simple & powerfull
-8. Include Rest API untuk Mobile Apps
+8. Include Rest API untuk Mobile Apps (extends pro version)
 9. Support hampir semua Browser modern
 10. Flexible & Customizable
 
