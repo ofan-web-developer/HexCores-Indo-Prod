@@ -10,7 +10,7 @@ Lihat tampilan HexCore **[➡ Disini](https://github.com/ofan-web-developer/HexC
 ### Peruntukan & Kompatibilitas
 1. Untuk landing page bisnis dan usaha
 2. Untuk official web Toko Online, Cafe, Kedai Kopi, Restoran dan lainnya
-3. Bisa disematkan di link Bio Instagram, Twitter, Facebook Page, Pinterest atau Tiktok
+3. Bisa disematkan di link Bio Instagram, Twitter, Facebook Page, Pinterest, Tiktok atau Platform Social Media yang menyediakan link bio
 4. Bisa digunakan transaksi end to end users & customer services
 
 ### Server & System Requirement
