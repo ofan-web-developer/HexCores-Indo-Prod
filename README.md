@@ -20,9 +20,10 @@ PENTING! Source code repository HexCores masih dalam status private, hubungi kam
 7. Flexible & Customizable
 
 ### Fitur Pro HexCore
-1. Include E-Commerce Native (extends pro version)
-2. Include Poin of Sale, CRM, Distribution & Sales Management (extends pro version)
-3. Include Rest API untuk Mobile Apps (extends pro version)
+1. Include E-Commerce Native
+2. Include Poin of Sale, CRM, Distribution & Sales Management
+3. Include Rest API untuk Mobile Apps
+4. Integrasi Firebase API (tambahan biaya layanan perbulan)
 
 *Catatan:*
 
