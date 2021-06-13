@@ -46,8 +46,7 @@ PENTING! Source code repository HexCores masih dalam status private, hubungi kam
 3. Include Rest API untuk Mobile Apps
 4. Integrasi Firebase API (tambahan biaya layanan perbulan)
 
-*Catatan:*
-
+#### Catatan:
 Untuk mendapatkan fitur pro silahkan kunjungi **[➡ HexCore Pro](https://sofandani.com/hexcore)**
 
 ### Informasi Teknologi
