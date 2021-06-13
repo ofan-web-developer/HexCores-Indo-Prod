@@ -5,7 +5,7 @@ OWD - Ofan Web Dev Indonesia meluncurkan produk digital berupa platform web apps
 Platform bernama HexCore Indo yang kami buat di dalam nya sudah tertanam fitur - fitur dan tools yang bisa digunakan untuk landing page sebuah situs.
 
 ## HexCores Source Releases
-PENTING! Source code repository HexCores masih dalam status private, hubungi kami untuk info rincinya.
+PENTING! Source code repository HexCores masih dalam status private, hubungi kami untuk membukanya.
 
 <a href="https://github.com/ofan-web-developer/HexCores-Indonesia"><img src="https://img.shields.io/badge/hexcore indo pro (private)-v.1.18.0-blueviolet?style=for-the-badge" alt="hecore version"></a> 
 <a href="https://github.com/ofan-web-developer/HexCores-Indonesia-Free"><img src="https://img.shields.io/badge/hexcore indo free (private)-v.1.18.0-brightgreen?style=for-the-badge" alt="hecore version"></a>
